@@ -7,3 +7,7 @@ I added a header
 ```typescript
 const test = "This is a test!"
 ```
+
+- [ ] Go shopping
+- [ ] Get groceries
+- [ ] Feed the cat
